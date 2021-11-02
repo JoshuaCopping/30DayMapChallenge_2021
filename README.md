@@ -10,3 +10,15 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 </div>
 
 ![./data/30daymapchallenge.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/30daymapchallenge.png?raw=true)
+
+***
+
+### [Day 1: Points](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_01.R)
+![./maps/Day01.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day01.png?raw=true)
+
+****
+
+### [Day 2: Lines](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_02.R)
+![./maps/Day02.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day02.png?raw=true)
+
+***
