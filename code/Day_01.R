@@ -111,7 +111,7 @@ world_plot <-
 
 # save
 ggsave(plot = world_plot,
-       here::here("maps", "Day_01.png"),
+       here::here("maps", "Day01.png"),
        width = 18,
        height = 11,
        dpi = 300)

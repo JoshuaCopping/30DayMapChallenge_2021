@@ -8,7 +8,7 @@ library(ggtext)
 library(patchwork)
 
 # load AIS tracking data downloaded from:
-# https://data.gov.uk/dataset/963c1a7b-5b72-4cce-93f5-3f1e223fd575/anonymised-ais-derived-track-lines-2015]
+# https://data.gov.uk/dataset/963c1a7b-5b72-4cce-93f5-3f1e223fd575/anonymised-ais-derived-track-lines-2015
 
 tracks <- st_read(here::here("data", "Anonymised_AIS_Derived_Track_Lines_2015_MMO", "Anonymised_AIS_Derived_Track_Lines_2015_MMO.shp")) %>% 
   st_transform(3857)
@@ -52,7 +52,7 @@ lines_plot <- track_plot +
 
 # save
 ggsave(plot = lines_plot,
-       here::here("maps", "Day_02.png"),
+       here::here("maps", "Day02.png"),
        width = 10,
        height = 13.90289,
        dpi = 300)
