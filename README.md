@@ -22,3 +22,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day02.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day02.png?raw=true)
 
 ***
+
+### [Day 3: Polygons](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_03.R)
+![./maps/Day03.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day03.png?raw=true)
+
+***
