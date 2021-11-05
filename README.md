@@ -28,7 +28,12 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 
 ***
 
-### [Day 3: Hexagons](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_04.R)
+### [Day 4: Hexagons](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_04.R)
 ![./maps/Day04.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day04.png?raw=true)
+
+***
+
+### [Day 5: OpenStreetMap Data](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_05.R)
+![./maps/Day05.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day05.png?raw=true)
 
 ***
