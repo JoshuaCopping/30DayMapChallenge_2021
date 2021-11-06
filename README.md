@@ -37,3 +37,9 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day05.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day05.png?raw=true)
 
 ***
+
+### [Day 6: Red](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_06.R)
+![./maps/Day06.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day06.png?raw=true)
+
+***
+
