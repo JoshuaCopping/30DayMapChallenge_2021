@@ -43,3 +43,7 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 
 ***
 
+### [Day 7: Green](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_07.R)
+![./maps/Day07.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day07.png?raw=true)
+
+***
