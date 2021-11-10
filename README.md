@@ -57,3 +57,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day09.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day09.png?raw=true)
 
 ***
+
+### [Day 10: Monochrome](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_10.R)
+![./maps/Day10.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day10.png?raw=true)
+
+***
