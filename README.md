@@ -67,3 +67,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day11.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day11.png?raw=true)
 
 ***
+
+### [Day 12: Population](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_12.R)
+![./maps/Day12.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day12.png?raw=true)
+
+***
