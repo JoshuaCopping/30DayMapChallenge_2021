@@ -24,7 +24,7 @@ ukc_neighbours_sf <- as(nb2lines(ukc_neighbours, coords = coordinates(ukc_sp)), 
 ukc_neighbours_sf <- st_set_crs(ukc_neighbours_sf, st_crs(uk_c))
 
 # load Ireland shapefile
-irl <- st_read(here::here("data", "gadm36_IRL_shp", "gadm36_IRL_0.shp")
+irl <- st_read(here::here("data", "gadm36_IRL_shp", "gadm36_IRL_0.shp"))
 
 # plot
 neighbour_map <- 
@@ -52,7 +52,7 @@ neighbour_map <-
                                     size = 8,
                                     hjust = 0.5,
                                     margin = margin(0, 0, 5, 0)),
-        plot.margin = margin(20, 50, 0, 50)) 
+        plot.margin = margin(20, 50, 0, 50))
 
 title_plot <- 
   ggplot() +
@@ -72,10 +72,10 @@ title_plot <-
 
 final_plot <- neighbour_map +
   inset_element(title_plot, -0.05, 0.87, 0.4, 0.94) +
-  plot_annotation(theme = theme(plot.margin = margin(20, 20, 20, 20))) 
+  plot_annotation(theme = theme(plot.margin = margin(20, 20, 20, 20)))
 
 ggsave(plot = final_plot,
-       here::here("maps", "Day14"),
+       here::here("maps", "Day14.png"),
        width = 8,
        height = 10,
        dpi = 300)
