@@ -87,3 +87,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day16.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day16.png?raw=true)
 
 ***
+
+### [Day 17: Land](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_17.R)
+![./maps/Day17.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day17.png?raw=true)
+
+***
