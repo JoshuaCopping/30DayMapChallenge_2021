@@ -102,3 +102,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day21.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day21.png?raw=true)
 
 ***
+
+### [Day 22: Boundaries](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_22.R)
+![./maps/Day22.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day22.png?raw=true)
+
+***
