@@ -112,3 +112,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day23.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day23.png?raw=true)
 
 ***
+
+### [Day 26: Choropleth](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_26.R)
+![./maps/Day26.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day26.png?raw=true)
+
+***
