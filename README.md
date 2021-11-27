@@ -117,3 +117,8 @@ My contributions to the 2021 [#30DayMapChallenge](https://github.com/tjukanovt/3
 ![./maps/Day26.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day26.png?raw=true)
 
 ***
+
+### [Day 27: Heatmap](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/code/Day_27.R)
+![./maps/Day27.png](https://github.com/JoshuaCopping/30DayMapChallenge_2021/blob/main/maps/Day27.png?raw=true)
+
+***
